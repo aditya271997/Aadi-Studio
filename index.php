@@ -23,7 +23,7 @@
       	 <div class="container md-4">
       	 	<a href="#" class="navbar-brand text-primary font-weight-bold ">
              <img src="logo/logo.png"class="d-inline-block align-top" alt="">
-          Aadistudio.com</a>
+          AadistudioAdi.com</a>
       	   
       	    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#collapsenavbar">
       	    	<span class="navbar-toggler-icon"></span>
